@@ -1,3 +1,3 @@
 Build project:
 
-run the build_script.sh bash script.
+run the *build_script.sh* bash script.
