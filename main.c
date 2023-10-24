@@ -29,6 +29,5 @@ int main() {
     end = __rdtscp(&ui);
     LFENCE
     printf("%lu ", (end - start));
-    if (( end - start ) < 0 ) return EXIT_FAILURE;
     return EXIT_SUCCESS;
 }
