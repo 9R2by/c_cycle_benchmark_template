@@ -1,2 +1,14 @@
-Build template:
+## Cycle Benchmark Template in C
+
+Build template:    
 Run the *build_script.sh* bash script. It might be necessary to apply chmod +x to the script.
+
+Dependencies:
+Cmake, can be installed easily and platform independent with the package installer for Python.  
+The advantage is that the version is more or less recent, unlike the build packages.
+```bash
+pip install cmake#
+```
+
+
+
