@@ -7,9 +7,7 @@ Dependencies:
 *Cmake*
 * can be installed easily and platform independent with the package installer for Python.  
 The advantage is that the version is more or less recent, unlike most build packages.
-* ```bash
- pip install cmake
- ```
+* ```bash pip install cmake ```
 *Clang*
 
 
