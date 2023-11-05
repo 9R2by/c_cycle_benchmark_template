@@ -1,7 +1,9 @@
 ## Cycle Benchmark Template in C    
 
 Build template:     
-Run the *build_script.sh* bash script. It might be necessary to apply chmod +x to the script.    
+Run the *build_script.sh* bash script. It might be necessary to apply ```bash
+  chmod +x
+  ```  to the script.    
     
 Dependencies:  
 
